@@ -4,7 +4,7 @@ based on YT tutorial for AI version of https://github.com/patrickloeber/python-f
 see: https://www.youtube.com/watch?v=PJl4iabBEz0&t=463s
 -------------------------
 
-"python agent.py" initializes ML 
+"python agent.py" initializes ML, while
 kremrole.py is a vanilla simple player controlled game its based on "python kremrole.py"
 
 neither take any arguments, for now options are switched inside the code. 
